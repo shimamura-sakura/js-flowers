@@ -1,0 +1,13 @@
+usage
+-----
+1. extract these iga files into fs/[game name here]:
+    - bgimage
+    - bgm
+    - fgimage
+    - se
+    - system
+    - voice
+2. edit main.js, use either
+    - const Fs_using = Fs.printemps;
+    - const Fs_using = Fs.ete;
+2. use a http server to serve this folder
