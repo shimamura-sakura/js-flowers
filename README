@@ -10,4 +10,9 @@ usage
 2. edit main.js, use either
     - const Fs_using = Fs.printemps;
     - const Fs_using = Fs.ete;
-2. use a http server to serve this folder
+3. use a http server to serve this folder
+4. check "TICK" box, use "SKIP" to fast-forward
+
+font
+----
+you should install 'IPAmjMincho' and 'Ume P Gothic', or edit video.js to use your own font.
